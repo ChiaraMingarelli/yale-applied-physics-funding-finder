@@ -19,7 +19,7 @@ On a self-hosted copy everything works for everyone, including:
 
 ## Data
 
-`data/programs.json` has 452 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
+`data/programs.json` has 437 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
 `engine/export_ap.py` builds the page's data from the shared catalog (rows tagged `ap`). `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 

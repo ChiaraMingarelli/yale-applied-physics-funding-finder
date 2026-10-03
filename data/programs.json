@@ -666,9 +666,9 @@
   "a": "Up to 3 years, renewed annually, with competitive salary and a research-support stipend. Years 1-2 fully LDRD-funded.",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Due 2026-10-01 7 pm Central (MGM Requisition 423080).",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
   "e": "PhD within 5 years of application, or finished before the start date. Open internationally. Needs a research proposal and an Argonne host.",
   "f": "Argonne National Laboratory (LDRD named fellowships)",
   "fields": [
@@ -683,7 +683,7 @@
   "id": "argonne-maria-goeppert-mayer-walter-massey-fellowships",
   "n": "Argonne Maria Goeppert Mayer & Walter Massey Fellowships",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -923,9 +923,9 @@
   "a": "One-week conferences (~80 people)",
   "added": "2026-09-29",
   "c": "Visiting program",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Mar 2027 conferences: Sep 30, 2026; Jan/Feb conferences closed Sep 15, 2026",
+  "checked": "2026-10-03",
+  "d": "2026-10-15",
+  "dt": "Most 2027 deadlines have passed; Multimessenger Probes of New Scales in Physics (Jan 10-15) and World Models (Feb 28-Mar 5) take applications until Oct 15, 2026",
   "e": "Open application through the ACP portal.",
   "f": "Aspen Center for Physics",
   "fields": [
@@ -1892,9 +1892,9 @@
   "a": "$80,000/yr; ~2 years",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "2026/10/01 23:59:59 (time zone not stated on page)",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Oct 1, 2026 deadline (for Klarman nomination) has passed; the search continues until the positions are filled.",
   "e": "Hard and soft condensed-matter theory incl. biophysics, cold atoms, electronic structure, ML, statistical physics and quantum information. No more than 3 years past PhD.",
   "f": "Cornell University, LASSP / Department of Physics",
   "fields": [
@@ -1906,7 +1906,7 @@
   "id": "cornell-bethe-wilkins-kic-fellowship-in-theoretical-cond",
   "n": "Cornell: Bethe/Wilkins/KIC Fellowship in Theoretical Condensed Matter",
   "nom": false,
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32454",
   "stages": [
    "pd"
@@ -2219,42 +2219,12 @@
   "us": false
  },
  {
-  "a": "not listed",
-  "added": "2026-09-28",
-  "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-10-02",
-  "dt": "Posted 2026-08-06",
-  "e": "All responsible sources. Novel IMU sensors exploiting nonlinear physics and advanced control.",
-  "f": "DOD DARPA",
-  "fields": [
-   "amo",
-   "inst"
-  ],
-  "id": "darpa-pinpoint-inertial-navigation",
-  "n": "DARPA PINPOINT (inertial navigation)",
-  "nofo": [
-   {
-    "opp": "HR001126S0016",
-    "u": "https://simpler.grants.gov/opportunity/60a42cc8-f0de-4de0-9d19-b22744c28c60"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://simpler.grants.gov/opportunity/60a42cc8-f0de-4de0-9d19-b22744c28c60",
-  "us": false
- },
- {
   "a": "Up to $500K over 24-month base plus an optional 12-month $500K (Director's Fellowship)",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2025-10-15",
-  "dt": "YFA 2026 (DARPA-RA-25-02): executive summary Oct 15, 2025; full proposal Jan 20, 2026. DARPA says the annual call usually posts Sep–Oct, so YFA 2027 is imminent but not yet found.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "YFA 2027 call not posted yet; DARPA says the annual call usually posts in September or October. YFA 2026 executive summaries were due Oct 15, 2025",
   "e": "Current tenure-track assistant or associate professors, or tenured faculty within 3 years of tenure date, at US institutions. OPEN to US citizens, permanent residents AND foreign nationals. Excluded if prior DARPA funding exceeds $500K (or all DoD funding exceeds $1.25M).",
   "f": "DARPA",
   "fields": [
@@ -2414,9 +2384,9 @@
   "a": "Phase I $500k to $750k (9 mo); Phase II 3 to 5x Phase I over 3 yrs",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
+  "checked": "2026-10-03",
   "d": null,
-  "dt": "Phase I and II deadlines (Apr 28 and May 19, 2026) have passed",
+  "dt": "FY26 deadlines (May 1 and May 19, 2026) have passed; the Dec 17, 2026 date is only for FY26 Phase I awardees. DOE says it plans a second competition in FY27, not posted yet",
   "e": "Research, tenure-track and tenured faculty; limited submission (one lead application per focus area per institution at peer universities). Non-US citizens can be PI if authorized to work.",
   "f": "DOE Office of Science",
   "fields": [
@@ -2434,7 +2404,7 @@
    }
   ],
   "nom": true,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -2708,43 +2678,6 @@
   "us": false
  },
  {
-  "a": "Varies by program office",
-  "added": "2026-09-28",
-  "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "DE-FOA-0003600 closes Sep 30, 2026, 7:59 pm ET; FY2027 open call expected ~Oct 2026",
-  "e": "University PIs; HEP and NP (including detector R&D) and BES take proposals through the annual open call, and program managers want a pre-contact.",
-  "f": "DOE Office of Science",
-  "fields": [
-   "ppx",
-   "nux",
-   "ppt",
-   "nut",
-   "cmx",
-   "inst",
-   "ds",
-   "qp"
-  ],
-  "id": "doe-office-of-science-open-call-fy2026-continuation-of-solic",
-  "n": "DOE Office of Science Open Call (FY2026 Continuation of Solicitation), incl. HEP/NP detector R&D",
-  "nofo": [
-   {
-    "opp": "DE-FOA-0003600",
-    "u": "https://simpler.grants.gov/opportunity/34942f3a-232f-48f4-a624-123dd6d042a0"
-   }
-  ],
-  "nom": false,
-  "s": "open",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://science.osti.gov/grants/FOAs/Open",
-  "unv": "FY2027 open call not yet posted",
-  "us": false
- },
- {
   "a": "Panels: up to $500,000/yr for 3 years, at most 2 awards each",
   "added": "2026-10-03",
   "c": "Federal grant",
@@ -2875,30 +2808,6 @@
   ],
   "u": "https://science.osti.gov/grants/FOAs/Open",
   "us": false
- },
- {
-  "a": "Paid internship at a DOE lab",
-  "added": "2026-09-29",
-  "c": "Summer program",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026, 5 pm ET",
-  "e": "US citizens/PR undergrads or recent grads in STEM.",
-  "f": "DOE Office of Science",
-  "fields": [
-   "all"
-  ],
-  "id": "doe-suli-spring-2027-term",
-  "n": "DOE SULI - Spring 2027 term",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://science.osti.gov/wdts/suli",
-  "us": true
  },
  {
   "a": "Paid 10-week internship at a DOE lab",
@@ -3035,30 +2944,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32902",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "2026-10-01 (no time given)",
-  "e": "Theoretical quantum optics and many-body physics with GPU-accelerated numerical methods. PhD in physics with first-author publication(s).",
-  "f": "Duke University, Duke Quantum Center",
-  "fields": [
-   "amo",
-   "qp"
-  ],
-  "id": "duke-postdoctoral-associate-duke-quantum-center-theory",
-  "n": "Duke: Postdoctoral Associate, Duke Quantum Center (theory)",
-  "nom": false,
-  "s": "open",
-  "src": "ajo:31800",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://academicjobsonline.org/ajo/jobs/31800",
   "us": false
  },
  {
@@ -3255,9 +3140,9 @@
   "a": "$2,000 for graduate students; $3,000 for postdocs",
   "added": "2026-09-28",
   "c": "Yale internal",
-  "checked": "2026-09-29",
-  "d": "2026-08-28",
-  "dt": "The 2026–27 competition deadline was Aug 28, 2026. Email the proposal to ty.kamp@yale.edu.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Aug 28, 2026 (2026-27 awards); the next competition is not posted yet",
   "e": "Yale graduate students and postdocs with two faculty mentors from different disciplines, for a science–humanities project.",
   "f": "Franke Program in Science and the Humanities",
   "fields": [
@@ -3266,7 +3151,7 @@
   "id": "franke-interdisciplinary-research-award-science-humanities",
   "n": "Franke Interdisciplinary Research Award (Science & Humanities)",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "pd",
    "gr"
@@ -3588,9 +3473,9 @@
   "a": "Not stated on official page",
   "added": "2026-09-28",
   "c": "Industry",
-  "checked": "2026-09-29",
-  "d": "2026-08-07",
-  "dt": "2026 call (topics: early fault-tolerant quantum algorithms and applications, quantum computing security) closed Aug 7, 2026. Watch for the next cycle.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Aug 7, 2026 (quantum computing topics); the next call is not posted yet",
   "e": "Faculty at degree-granting institutions who advise students (postdocs may be co-PIs). Quantum topics require open-sourcing the results.",
   "f": "Google Research / Google Quantum AI",
   "fields": [
@@ -3640,9 +3525,9 @@
   "a": "US/Canada: $85K/yr for up to 2 years",
   "added": "2026-09-28",
   "c": "Industry",
-  "checked": "2026-09-29",
-  "d": "2026-04-30",
-  "dt": "2026 cycle ran Mar 5 – Apr 30, 2026. Expect a similar window in spring 2027. University nomination only.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Apr 30, 2026; the 2027 cycle is not posted yet. University nomination only",
   "e": "PhD students nominated by their university (3–4 per institution). Quantum algorithms, error correction and NISQ experiments are in scope.",
   "f": "Google Research",
   "fields": [
@@ -3921,9 +3806,9 @@
   "a": "3 years: $73K, $75K, $77K stipend, plus a $1,500/yr research allowance",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-06-15",
-  "dt": "Last deadline June 15, 2026; the next is expected mid-June 2027",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline June 15, 2026; the 2027 deadline is not posted yet (expected mid-June 2027)",
   "e": "PhD within 2 years of the deadline and no more than 1 year in the postdoc lab. Foreign nationals must train in US labs.",
   "f": "Helen Hay Whitney Foundation",
   "fields": [
@@ -3968,9 +3853,9 @@
   "a": "3 years; living, research and travel allowances vary by host country",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-05-12",
-  "dt": "2027 cycle: LOI closed May 12, 2026 and the full proposal was due Sept 24, 2026. The next LOI is expected around May 2027",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last cycle had an LOI deadline of May 12, 2026 and a full proposal deadline of Sep 24, 2026; the next call is not posted yet (LOI expected around May 2027)",
   "e": "Within 3 years of PhD at the full-proposal deadline. Must move to a new country other than the country of nationality and not have spent more than 12 months in the host country. The Cross-Disciplinary track fits physicists moving into biology.",
   "f": "Human Frontier Science Program",
   "fields": [
@@ -3993,9 +3878,9 @@
   "a": "$300K/yr (2-person team), $400K/yr (3), $500K/yr (4+), for 3 years",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": "2026-03-26",
-  "dt": "The 2027 award-year LOI closed Mar 26, 2026. The 2028 call is expected with LOI registration around March 2027, not yet posted",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last LOI deadline Mar 26, 2026 (2027 award year); the 2028 call is not posted yet, expected with LOI registration around March 2027",
   "e": "International teams of 2–4 independent PIs from different countries. The US is a member country, and the principal applicant's lab must be in a member country. The Early Career variant requires all members to be within 5 years of independence and 10 years of PhD. The program strongly favors interdisciplinary physics–biology work.",
   "f": "Human Frontier Science Program",
   "fields": [
@@ -4514,34 +4399,6 @@
   "us": false
  },
  {
-  "a": "not listed; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026 (internal expression of interest)",
-  "e": "Internal expression of interest for hosting 1851 Research Fellowships in physics. For recent PhDs with at most 2.5 years of postdoc.",
-  "f": "Imperial College London, Department of Physics (fellowships team)",
-  "fields": [
-   "astro",
-   "cmx",
-   "amo",
-   "ppx"
-  ],
-  "id": "imperial-college-royal-commission-for-the-exhibition-of-",
-  "n": "Imperial College: Royal Commission for the Exhibition of 1851 Research Fellowship (EOI)",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3119877",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
-  "us": false
- },
- {
   "a": "not listed (ERC StG QINF and QuantERA funding)",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -4777,9 +4634,9 @@
    "inst"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "2026/09/30 10:59:59 (time zone not stated) - closes today",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Sep 30, 2026 date has passed; open until the positions are filled (AJO listing to Dec 31, 2026).",
   "e": "Quantum sensors and devices for dark matter, axion and gravitational-wave detection. PhD in physics or related field by start.",
   "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
   "fields": [
@@ -4793,7 +4650,7 @@
   "nfit": "High",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32184",
   "stages": [
    "pd"
@@ -5145,9 +5002,9 @@
   "a": "$85,000/yr ($79K salary plus $6K research) for 3 years",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Due Oct 1, 2026, 8pm ET; awards start Aug 1, 2027",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
   "e": "Within 5 years of PhD, starting a postdoc between Aug 1, 2025 and July 31, 2027 in a lab other than the PhD lab. Non-US citizens must work in a US lab, and applicants in HHMI Investigator labs are ineligible this cycle.",
   "f": "Life Sciences Research Foundation (sponsors incl. HHMI, Simons)",
   "fields": [
@@ -5157,7 +5014,7 @@
   "id": "life-sciences-research-foundation-lsrf-postdoctoral-fellowsh",
   "n": "Life Sciences Research Foundation (LSRF) Postdoctoral Fellowship",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -5202,9 +5059,9 @@
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "No deadline; applications are reviewed weekly.",
   "e": "Theoretical physics and mathematics. The summary notes the scheme targets researchers with a Russian background; check eligibility on the page.",
   "f": "London Institute for Mathematical Sciences",
   "fields": [
@@ -5217,7 +5074,7 @@
   "nfit": "High",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3118038",
   "stages": [
    "pd"
@@ -5335,9 +5192,9 @@
   "a": "Starting salary $12,663 per month.",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Applications due by 11:59 pm Pacific on Oct 1. The posting is live Aug 1 to Oct 1.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet. Registration usually opens in late July",
   "e": "Within 1 year of finishing the PhD, or already have it. US citizenship not required. Open to all technical disciplines.",
   "f": "Lawrence Livermore National Laboratory",
   "fields": [
@@ -5350,7 +5207,7 @@
   "id": "llnl-lawrence-fellowship",
   "n": "LLNL Lawrence Fellowship",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "pd"
   ],
@@ -5362,9 +5219,9 @@
   "a": "Stipend set by LPS, plus health, relocation and travel allowances; 12 months, renewable up to 3 years",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2025-04-02",
-  "dt": "Last posted cycle (NSA-LPS-LQC-2025-0001) closed Apr 2, 2025 (LQC page says Mar 31, 2025). No 2026 posting found.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Jun 30, 2026 (NSA-LPS-LQC-2026-0003); the next cycle is not posted yet",
   "e": "US citizens only. Doctoral students (GPA ≥3.5) in physics, engineering or materials doing qubit-related (superconducting or semiconducting preferred) research. Must present at the LQC review.",
   "f": "NSA Laboratory for Physical Sciences (via ORISE)",
   "fields": [
@@ -5460,35 +5317,6 @@
   "us": false
  },
  {
-  "a": "1 or 2 yrs of UK graduate study",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-09-29",
-  "dt": "Applicant deadline Sep 29, 2026, 5 pm local; institutional endorsement Oct 1, 2026",
-  "e": "US citizens; must be endorsed by the undergraduate institution (max 24 per institution).",
-  "f": "Marshall Aid Commemoration Commission",
-  "fields": [
-   "all"
-  ],
-  "id": "marshall-scholarship-2027",
-  "n": "Marshall Scholarship (2027)",
-  "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.marshallscholarship.org/apply",
-  "us": true,
-  "yale": {
-   "d": "2026-07-29",
-   "t": "Yale endorsement is required (Common Application for Endorsement). Campus deadlines were Jul 15, 2026 at 1pm and Jul 29, 2026 at 1pm. Marshall national deadline Sep 29. This has passed.",
-   "u": "https://funding.yale.edu/marshall-rhodes-scholarships-yale-application"
-  }
- },
- {
   "a": "Up to $700,000 over 3 years; indirect costs capped at 10%",
   "added": "2026-09-30",
   "c": "Foundation",
@@ -5537,31 +5365,6 @@
    "ten"
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
-  "us": false
- },
- {
-  "a": "not listed",
-  "added": "2026-09-30",
-  "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
-  "e": "Extract ions from xenon gas for Ba-tagging in 0νββ searches. Requires a PhD in nuclear/particle physics or ion manipulation/spectroscopy.",
-  "f": "McGill University; PI Thomas Brunner",
-  "fields": [
-   "nux",
-   "inst",
-   "amo"
-  ],
-  "id": "mcgill-ion-manipulation-for-ba-tagging-nexo",
-  "n": "McGill: Ion manipulation for Ba-tagging (nEXO)",
-  "nom": false,
-  "s": "open",
-  "src": "inspire:3198290",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000079642",
   "us": false
  },
  {
@@ -5936,9 +5739,9 @@
   "a": "$1.8–2.0M over 6 years, unrestricted; up to 8 awards",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": "2026-06-05",
-  "dt": "2026 call: pre-application Jun 5, 2026; invited full proposals late July 2026. Occasional calls; watch for the next.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last pre-application deadline Jun 5, 2026; the next open call is planned for 2029 and is not posted yet",
   "e": "Tenured, tenure-track or research faculty at US academic institutions (not adjunct or emeritus). Quantum materials experiment.",
   "f": "Gordon and Betty Moore Foundation – Emergent Phenomena in Quantum Systems",
   "fields": [
@@ -5948,7 +5751,7 @@
   "id": "moore-epiqs-experimental-investigators",
   "n": "Moore EPiQS Experimental Investigators",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -5966,9 +5769,9 @@
   "a": "Investigators $1.8–1.9M; Fellows $1.3–1.4M; 6 years, unrestricted",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": "2026-03-27",
-  "dt": "2026 call: pre-application Mar 27, 2026; full proposals late April 2026.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last pre-application deadline Mar 27, 2026; the next open call is planned for 2029 and is not posted yet",
   "e": "US faculty (tenured, tenure-track or research). Fellows track requires a first tenure-track appointment beginning in 2024 or later.",
   "f": "Gordon and Betty Moore Foundation – EPiQS",
   "fields": [
@@ -5978,7 +5781,7 @@
   "id": "moore-epiqs-materials-synthesis-investigators-moore-synthesi",
   "n": "Moore EPiQS Materials Synthesis Investigators & Moore Synthesis Fellows",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -6622,9 +6425,9 @@
   "a": "Up to $275K direct costs per year, up to 5 years",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-10-02",
-  "dt": "Receipt dates Oct 2, 2026; Feb 3, 2027; Oct 4, 2027 (continues through Feb 6, 2029)",
+  "checked": "2026-10-03",
+  "d": "2027-02-03",
+  "dt": "Next receipt date Feb 3, 2027, 5 pm local; later dates Oct 4, 2027 and Feb 3, 2028 (through Feb 6, 2029)",
   "e": "Must be an NIH Early Stage Investigator (within 10 years of terminal degree, with no prior substantial independent NIH award), and the research must fit the NIGMS mission. The application format has no specific-aims page, and ineligible applicants are withdrawn without review.",
   "f": "NIH NIGMS",
   "fields": [
@@ -6717,9 +6520,9 @@
   "a": "Up to $475K direct costs per year for 5 years",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-08-17",
-  "dt": "FY2027 cycle (RFA-RM-27-002) closed Aug 17, 2026. The next call is expected around Aug 2027 but is not posted",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Aug 17, 2026 (RFA-RM-27-002); the next call is not posted yet, expected around August 2027",
   "e": "NIH-defined ESI within 10 years of terminal degree, holding an independent position at a US institution by Sept 1 of the award year. Single PI, one application per person.",
   "f": "NIH Common Fund",
   "fields": [
@@ -6741,9 +6544,9 @@
   "a": "$700K direct costs per year for 5 years (about 7 awards)",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-09-09",
-  "dt": "FY2027 cycle (RFA-RM-27-001) closed Sept 9, 2026; the next call is not posted",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Sep 9, 2026 (RFA-RM-27-001); the next call is not posted yet",
   "e": "Any career stage; single PI who commits more than 51% effort in years 1–3. The project must be a substantially new direction, and foreign organizations are ineligible.",
   "f": "NIH Common Fund",
   "fields": [
@@ -6760,29 +6563,6 @@
    "tt"
   ],
   "u": "https://commonfund.nih.gov/pioneer",
-  "us": false
- },
- {
-  "a": "n/a",
-  "added": "2026-09-28",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "No active diversity F31 NOFO found; applicants should use the parent F31",
-  "e": "Formerly for students from underrepresented groups.",
-  "f": "NIH",
-  "fields": [
-   "bio"
-  ],
-  "id": "nih-f31-to-promote-diversity-parent-f31-diversity",
-  "n": "NIH F31 to Promote Diversity (Parent F31-Diversity)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "gr"
-  ],
-  "u": "https://grants.nih.gov/grants/guide/pa-files/PA-21-052.html",
-  "unv": "Could not locate an official termination notice; status based on the absence of an active NOFO and press reports",
   "us": false
  },
  {
@@ -6844,30 +6624,6 @@
    "tt"
   ],
   "u": "https://simpler.grants.gov/opportunity/bfff80db-fe94-4069-b095-ea79fe5fe2c8",
-  "us": false
- },
- {
-  "a": "n/a",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "No active MOSAIC K99/R00 NOFO found; prior NOFOs are expired",
-  "e": "Formerly for postdocs from diverse backgrounds; now use the parent K99/R00.",
-  "f": "NIH NIGMS",
-  "fields": [
-   "bio"
-  ],
-  "id": "nih-mosaic-k99-r00-diversity-postdoc-to-faculty",
-  "n": "NIH MOSAIC K99/R00 (diversity postdoc-to-faculty)",
-  "nom": false,
-  "pt": "other",
-  "s": "closed",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://grants.nih.gov/grants/guide/pa-files/par-21-271.html",
-  "unv": "No official discontinuation notice found; status inferred from expired NOFOs",
   "us": false
  },
  {
@@ -7429,9 +7185,9 @@
   "added": "2026-09-28",
   "asub": [],
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Posted 2024-03-01; white paper required before full proposal; closes 2026-09-30",
+  "checked": "2026-10-03",
+  "d": "2026-12-30",
+  "dt": "Closes Dec 30, 2026 after Amendment 0008 extended white paper acceptance; white paper required before a full proposal",
   "e": "Unrestricted. NRL directorates: materials science, electromagnetics, space technology, ocean sciences, etc.",
   "f": "DOD NRL",
   "fields": [
@@ -7635,9 +7391,9 @@
   "a": "n/a",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
+  "checked": "2026-10-03",
   "d": null,
-  "dt": "Paused",
+  "dt": "No open solicitation. NSF lists the program as waiting for a new publication; the last guidelines were NSF 22-632",
   "e": "Research software and data infrastructure program, currently paused. Per coordinator.",
   "f": "NSF",
   "fields": [
@@ -7647,7 +7403,7 @@
   "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
   "n": "NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation)",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -8108,31 +7864,6 @@
   "us": false
  },
  {
-  "a": "n/a",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Archived",
-  "e": "Former MPS-wide postdoctoral fellowship; archived. Per coordinator.",
-  "f": "NSF MPS",
-  "fields": [
-   "all"
-  ],
-  "id": "nsf-mps-ascend-postdoctoral-fellowships",
-  "n": "NSF MPS-Ascend Postdoctoral Fellowships",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "closed",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.nsf.gov/",
-  "unv": "Status per coordinator; not re-fetched",
-  "us": false
- },
- {
   "a": "$150M across CHE programs",
   "added": "2026-10-03",
   "c": "Federal grant",
@@ -8503,9 +8234,9 @@
   "a": "$110K/yr ($85K stipend plus $25K allowance) for 24 months",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-09-29",
-  "dt": "Due Sept 29, 2026; next Sept 28, 2027 (4th Tuesday of September)",
+  "checked": "2026-10-03",
+  "d": "2027-09-28",
+  "dt": "Next deadline Sept 28, 2027 (fourth Tuesday of September each year)",
   "e": "US citizens, nationals or permanent residents with at most 15 months of post-PhD work. The program now has a single track, Intersection of AI and Biological Sciences, and biomedically focused proposals are returned.",
   "f": "NSF BIO",
   "fields": [
@@ -8527,32 +8258,6 @@
   ],
   "u": "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/nsf26-504/solicitation",
   "us": true
- },
- {
-  "a": "$2M–$7.5M/yr per institute, up to 6 years",
-  "added": "2026-09-28",
-  "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2025-09-17",
-  "dt": "Last round (NSF 24-599): LOI Feb 7, 2025; prelim Mar 7, 2025; invited full proposals Sep 17, 2025. No new round posted.",
-  "e": "Large multi-institution centers; limits on lead organizations and senior personnel.",
-  "f": "NSF",
-  "fields": [
-   "qp",
-   "amo",
-   "cmx",
-   "cmt"
-  ],
-  "id": "nsf-quantum-leap-challenge-institutes-qlci",
-  "n": "NSF Quantum Leap Challenge Institutes (QLCI)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "ten",
-   "tt"
-  ],
-  "u": "https://www.nsf.gov/funding/opportunities/qlci-quantum-leap-challenge-institutes",
-  "us": false
  },
  {
   "a": "Stipend + housing (varies by site)",
@@ -8808,36 +8513,12 @@
   "us": false
  },
  {
-  "a": "Up to 30,000 H100 GPU-hours, RTX PRO 6000 GPUs or DGX Spark systems",
-  "added": "2026-09-28",
-  "c": "Compute",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Not currently accepting applications",
-  "e": "Full-time faculty at PhD-granting institutions, for projects using NVIDIA software/models.",
-  "f": "NVIDIA",
-  "fields": [
-   "ds",
-   "all"
-  ],
-  "id": "nvidia-academic-grant-program",
-  "n": "NVIDIA Academic Grant Program",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
-  "us": false
- },
- {
   "a": "Varies",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "FY25 LR BAA (N00014-25-S-B001) closes Sep 30, 2026, 2 PM ET. A successor is expected; contact ONR program officers (e.g., the quantum/AMO/condensed-matter programs in Code 31/33).",
+  "checked": "2026-10-03",
+  "d": "2026-12-31",
+  "dt": "FY25 Long Range BAA (N00014-25-S-B001) accepts full proposals until Dec 31, 2026, 11:59 PM ET",
   "e": "US institutions. Usually white paper, then proposal.",
   "f": "Office of Naval Research",
   "fields": [
@@ -8855,7 +8536,7 @@
    }
   ],
   "nom": false,
-  "s": "watch",
+  "s": "open",
   "stages": [
    "tt",
    "ten"
@@ -9140,9 +8821,9 @@
   "a": "not listed",
   "added": "2026-09-30",
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Listed deadline was Sep 30, 2026; applications are accepted until the position is filled.",
   "e": "ML, quantum computing, Higgs factories and muon experiments. PhD required by the start date.",
   "f": "Peking University; PI Chen Zhou",
   "fields": [
@@ -9153,7 +8834,7 @@
   "id": "peking-u-boya-postdoctoral-fellow-ml-quantum-computing-f",
   "n": "Peking U.: Boya postdoctoral fellow (ML, quantum computing, future colliders)",
   "nom": false,
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3160199",
   "stages": [
    "pd"
@@ -9272,9 +8953,9 @@
   "a": "$300,000 over 4 years ($75K/yr)",
   "added": "2026-09-28",
   "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": "2026-09-03",
-  "dt": "2027 cycle closed (LOI May 13, 2026; full application Sept 3, 2026). The 2028 cycle is expected in spring 2027 with internal nomination first",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Sept 3, 2026; the 2028 cycle is not posted yet (expected in spring 2027, with internal nomination first)",
   "e": "Assistant professors running an independent lab for about 3 years or less, including those with physical-science doctorates. One nominee per invited institution, and a candidate may apply at most twice.",
   "f": "The Pew Charitable Trusts",
   "fields": [
@@ -9664,9 +9345,9 @@
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026, 5 pm ET",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026 (science, engineering and math); 2028–2029 application details expected in spring 2027",
   "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply). Coordinator-verified.",
   "f": "Harvard Radcliffe Institute",
   "fields": [
@@ -9675,7 +9356,7 @@
   "id": "radcliffe-institute-fellowship",
   "n": "Radcliffe Institute Fellowship",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -10058,34 +9739,6 @@
   "us": false
  },
  {
-  "a": "$450,000 over 3 years",
-  "added": "2026-09-28",
-  "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Application deadline Sept 30, 2026, by institutional nomination only (Yale limited-submission process)",
-  "e": "First-year assistant professors whose first tenure-track appointment began on or after May 1, 2025, at participating institutions. Fields are biochemistry, cell biology, genetics, neuroscience and related chemistry/biological sciences, and candidates must be nominated by the institution.",
-  "f": "Searle Scholars Program / Kinship Foundation",
-  "fields": [
-   "bio"
-  ],
-  "id": "searle-scholars-program-2027-cycle",
-  "n": "Searle Scholars Program (2027 cycle)",
-  "nom": true,
-  "s": "open",
-  "stages": [
-   "tt"
-  ],
-  "u": "https://searlescholars.org/application-information/award-cycle-dates/",
-  "us": false,
-  "yale": {
-   "d": "2026-04-20",
-   "t": "Yale internal application for the 2027 Searle Scholars (sponsor deadline 'to be announced' when listed). Apply via InfoReady. This has passed.",
-   "u": "https://research.yale.edu/funding-opportunities-newsletter-archive",
-   "unv": "Source is the Mar 18 to Apr 15, 2026 newsletters."
-  }
- },
- {
   "a": "KRW 55M/yr; 2 years (1+1)",
   "added": "2026-09-30",
   "c": "Group postdoc",
@@ -10186,9 +9839,9 @@
    "he"
   ],
   "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026, noon ET",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
   "e": "Tenured and leave-eligible, with a primary appointment in a MATHEMATICS department; turns a one-term sabbatical into a full year. Physics-only appointees are not eligible.",
   "f": "Simons Foundation",
   "fields": [
@@ -10199,7 +9852,7 @@
   "id": "simons-fellows-in-mathematics",
   "n": "Simons Fellows in Mathematics",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ten"
   ],
@@ -10207,41 +9860,12 @@
   "us": false
  },
  {
-  "a": "Formerly sabbatical-extension salary support",
-  "added": "2026-09-28",
-  "asub": [
-   "he"
-  ],
-  "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Discontinued",
-  "e": "Formerly for tenured theorists at US/Canadian institutions; physics sabbatical support now has to come from IAS, Radcliffe, Guggenheim or Humboldt.",
-  "f": "Simons Foundation",
-  "fields": [
-   "ppt",
-   "cmt",
-   "grav",
-   "astro",
-   "nut"
-  ],
-  "id": "simons-fellows-in-theoretical-physics-discontinued",
-  "n": "Simons Fellows in Theoretical Physics (discontinued)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "ten"
-  ],
-  "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-theoretical-physics/",
-  "us": false
- },
- {
   "a": "1 year of academic salary plus $10K for the fellow and $50K for the mentor. Fellows may then be eligible for a 5-year, $1.5M research award",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-05-14",
-  "dt": "Last deadline May 14, 2026; the next cycle is expected around spring 2027",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline May 14, 2026; the next cycle is not posted yet (expected around spring 2027)",
   "e": "Faculty (or equivalent) with a PhD in the natural sciences, math, engineering or CS who want to move into a new discipline, such as physicists moving into biology. Requires a full year of institutional leave.",
   "f": "Simons Foundation",
   "fields": [
@@ -10259,29 +9883,6 @@
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/grant/pivot-fellowship/",
-  "us": false
- },
- {
-  "a": "n/a",
-  "added": "2026-09-28",
-  "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Discontinued",
-  "e": "Program no longer running. Coordinator-verified.",
-  "f": "Simons Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "simons-investigators-discontinued",
-  "n": "Simons Investigators (discontinued)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://www.simonsfoundation.org/",
   "us": false
  },
  {
@@ -10984,9 +10585,9 @@
   "a": "5 years",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-02",
-  "dt": "Oct 2, 2026 - page says it will be extended into late October",
+  "checked": "2026-10-03",
+  "d": "2026-10-31",
+  "dt": "Deadline Oct 31, 2026 on the TU Berlin posting (ref. IV-359/26); apply by email, not through AJO.",
   "e": "First-principles and ML design of spin defects for quantum sensing (coherence, optical readout, charge stability). Needs expertise in >=2 of defect spin physics, ML for materials, multiscale simulation, excited-state chemistry.",
   "f": "Technische Universitat Berlin, Semiconductor Components and Microelectronic Systems (SAM)",
   "fields": [
@@ -11313,9 +10914,9 @@
   "a": "3 years; competitive salary plus $3K/yr travel",
   "added": "2026-09-28",
   "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2025-11-03",
-  "dt": "Last deadline Nov 3, 2025. The 2026 cycle page was not yet updated; expect early November.",
+  "checked": "2026-10-03",
+  "d": "2026-11-01",
+  "dt": "Full consideration by Nov 1, 2026; review continues on a rolling basis after that.",
   "e": "PhD by start, less than 7 years past PhD. Experimental and/or theoretical quantum science.",
   "f": "University of Chicago Department of Physics",
   "fields": [
@@ -11327,7 +10928,7 @@
   "id": "uchicago-quantum-fellows-physics-cqe",
   "n": "UChicago Quantum Fellows (Physics / CQE)",
   "nom": false,
-  "s": "watch",
+  "s": "open",
   "stages": [
    "pd"
   ],
@@ -11702,9 +11303,9 @@
   "a": "$6,000 stipend (2026), plus housing and up to $500 travel",
   "added": "2026-09-28",
   "c": "Summer program",
-  "checked": "2026-09-29",
-  "d": "2026-02-28",
-  "dt": "The 2026 deadline was Feb 28; 2027 dates are not posted yet. See the NSF REU search for other biophysics sites",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Feb 28, 2026; the 2027 cycle is not posted yet and depends on NSF funding",
   "e": "US citizens or permanent residents; undergraduates aged 18+ with at least 1 year of college; UM students are excluded. Continuation depends on NSF funding.",
   "f": "NSF REU / University of Michigan",
   "fields": [

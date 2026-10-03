@@ -742,6 +742,9 @@
  {
   "a": "$71,000/yr + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -1452,6 +1455,9 @@
  {
   "a": "$88k + $10k/yr research, 3–4 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -1529,6 +1535,10 @@
  {
   "a": "$88,000 first year + $10,000/yr research fund; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -1636,6 +1646,9 @@
  {
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -1797,6 +1810,9 @@
  {
   "a": "1 year, extendible up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -2457,6 +2473,7 @@
  {
   "a": "Project periods of 6 months to 5 years; three years is typical. Ask the program manager before requesting more than three years.",
   "added": "2026-09-28",
+  "asub": [],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -3098,6 +3115,9 @@
  {
   "a": "competitive salary; 2 years, usually extended to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-08",
@@ -3175,6 +3195,7 @@
  {
   "a": "3-year appointment, extendable up to 2 more years.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -3203,6 +3224,9 @@
  {
   "a": "Postdoc appointment; terms not verified.",
   "added": "2026-09-29",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -3866,6 +3890,9 @@
  {
   "a": "Conference/workshop support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Foundation",
   "checked": "2026-09-29",
   "d": "2027-07-01",
@@ -4197,6 +4224,9 @@
  {
   "a": "$71k–90k, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-07",
@@ -4226,6 +4256,9 @@
  {
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -4450,6 +4483,9 @@
  {
   "a": "Five-year Ramón y Cajal fellowship on tenure-track trajectory toward permanent faculty; salary not listed",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-10-16",
@@ -4735,6 +4771,11 @@
  {
   "a": "up to 3 years (annual contracts)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he",
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -4841,6 +4882,9 @@
  {
   "a": "4–5 scholars/yr; salary not listed",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -4872,6 +4916,9 @@
  {
   "a": "KITP hosts the program and supports participants' local costs",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -5039,6 +5086,10 @@
  {
   "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-18",
@@ -5116,6 +5167,10 @@
  {
   "a": "1 year, renewable up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": null,
@@ -5143,6 +5198,9 @@
  {
   "a": "£51,000+; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-01",
@@ -5675,6 +5733,10 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -5704,6 +5766,10 @@
  {
   "a": "$73,000-$90,000 (12-month appointment)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-16",
@@ -5808,6 +5874,9 @@
  {
   "a": "$88,000 stipend + $15,000 research + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -5949,6 +6018,9 @@
  {
   "a": "TVöD Bund E14; 3 years, extendable to 5",
   "added": "2026-09-30",
+  "asub": [
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -6159,6 +6231,9 @@
  {
   "a": "From $70k + $10k/yr travel, 1–3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-01",
@@ -7352,6 +7427,7 @@
  {
   "a": "not listed",
   "added": "2026-09-28",
+  "asub": [],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-09-30",
@@ -9139,6 +9215,10 @@
  {
   "a": "3 yr (named fellowships 4 yr)",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-06",
@@ -9554,6 +9634,9 @@
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-14",
@@ -10099,6 +10182,9 @@
  {
   "a": "Up to $125k salary replacement + $10k expenses + 20% overhead (max $162k)",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": "2026-10-01",
@@ -10123,6 +10209,9 @@
  {
   "a": "Formerly sabbatical-extension salary support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": null,
@@ -10270,6 +10359,7 @@
  {
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -10483,6 +10573,10 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -10684,6 +10778,10 @@
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2027-02-01",
@@ -11183,6 +11281,9 @@
  {
   "a": "$70,000-$80,000",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-11-01",
@@ -11467,6 +11568,9 @@
  {
   "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-18",
@@ -11716,6 +11820,9 @@
  {
   "a": "RMB 150,000-200,000/yr; 2 years (+2)",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -11900,6 +12007,9 @@
  {
   "a": "$70,000 + $10,000/yr research; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",

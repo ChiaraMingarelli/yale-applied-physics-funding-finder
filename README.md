@@ -2,8 +2,7 @@
 
 Grants, fellowships, industry calls, user-facility time and student programs for the Yale Department of Applied Physics: quantum information, photonics, condensed matter and quantum materials, materials science, devices, energy and physical biology.
 
-- **Live page (updated automatically):** https://claude.ai/artifact/UupbYuB4NTS7K4CQdPvd59
-- **On GitHub Pages:** https://chiaramingarelli.github.io/yale-applied-physics-funding-finder/
+- **Live page (updated automatically):** https://chiaramingarelli.github.io/yale-applied-physics-funding-finder/
 - **This repository:** a self-contained copy you can read, download or host yourself.
 
 ## Use it
